@@ -1,0 +1,44 @@
+.classediv {
+    width: 300px;
+    height: 300px;
+    font-family: "Alan Sans", sans-serif;
+    font-size: 55px;
+    color: antiquewhite;
+    background-color: rgb(106, 70, 145);
+    padding: 20px;
+    position: absolute;
+    border-radius: 30px;
+    box-shadow: 10px -10px 7px rgb(36, 36, 36);
+
+  }
+
+#quadrado1 {
+    top: 0;
+    left: 0;
+}
+
+#quadrado2 {
+    top: 0;
+    right: 0;
+}
+
+#quadrado3 {
+    bottom: 0;
+    left: 0;
+}
+
+#quadrado4 {
+    bottom: 0;
+    right: 0;
+}
+
+#quadrado5 {
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+#imagem1 {
+    width: 50%;
+    height: 50%;
+}
