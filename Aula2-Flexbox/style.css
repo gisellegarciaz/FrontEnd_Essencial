@@ -1,0 +1,12 @@
+ #divpai {
+        font-family: Alan-Sans, sans-serif;
+        background-color: rgb(98, 65, 130);
+        color: antiquewhite;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* justify-content: flex-end; */
+    }
+
+    
